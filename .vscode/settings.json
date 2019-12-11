@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "DYNAMODB",
+        "Parens",
+        "amazonaws",
+        "inversify",
+        "usecases",
+        "zenrecorder"
+    ],
+    "editor.formatOnSave": true
+}
